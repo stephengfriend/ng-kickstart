@@ -1,0 +1,32 @@
+{
+  "name": "ng-kickstart",
+  "version": "0.0.0",
+  "description": "Kickstart your Angular frontend development!",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephengfriend/ng-kickstart.git"
+  },
+  "keywords": [
+    "ng-kickstart",
+    "angular",
+    "kickstarter",
+    "kickstart",
+    "ng",
+    "boilerplate",
+    "common",
+    "starter"
+  ],
+  "author": "Stephen G. Friend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephengfriend/ng-kickstart/issues"
+  },
+  "homepage": "https://github.com/stephengfriend/ng-kickstart"
+}
